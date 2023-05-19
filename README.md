@@ -5,6 +5,10 @@ Code for the paper Competition among variants is predictable and controls the an
 
 Code to align and count reads
  
-   ## *Project Desc*
+   ## *Project Description*
    
+   We induced VSG gene recombination and switching in in vitro culture using CRISPR-Cas9 nuclease to target the active VSG
+   We conclude that antigenic variants compete, and that the population of cells that activates minichromosome derived VSGs displays a competitive advantage. 
+   Competition among variants impacts antigenic variation dynamics in African trypanosomes and likely prolongs immune evasion with a limited set of antigens.
+
 
